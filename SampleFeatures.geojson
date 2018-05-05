@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0026381897302,
+          40.68412895
+        ]
+      },
+      "properties": {
+        "ownername": "YEE, MARIE",
+        "address": "118, Union Street, Columbia Street Waterfront District, Kings County, NYC, New York, 11231, United States of America",
+        "taxclass": "1a - condo unit in 1-3 story building",
+        "taxrate": "19.1570%",
+        "emv": 687015.0,
+        "tbea": 2414.0,
+        "bav": 12600.0,
+        "tba": 1501.0,
+        "propertytax": 1501.0,
+        "condonumber": 401.0,
+        "condo": "unit",
+        "latitude": 40.68412895,
+        "longitude": -74.0026381897302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9340011133842,
+          40.66425825
+        ]
+      },
+      "properties": {
+        "ownername": "VIOLET C. FARLEY",
+        "address": "928, Montgomery Street, Rutland Plaza, BK, Kings County, NYC, New York, 11213, United States of America",
+        "taxclass": "2a - 4-6 unit residential building",
+        "taxrate": "12.8550%",
+        "emv": 437000.0,
+        "tbea": 9307.0,
+        "bav": 72400.0,
+        "tba": 9307.0,
+        "propertytax": 9307.0,
+        "latitude": 40.66425825,
+        "longitude": -73.9340011133842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9177499,
+          40.7605248
+        ]
+      },
+      "properties": {
+        "ownername": "HALLETS MARINA CORP.",
+        "address": "Steinway Street, Sunnyside Gardens, Queens County, NYC, New York, 11377, United States of America",
+        "taxclass": " 1b - vacant land, zoned residential",
+        "taxrate": "19.1570%",
+        "emv": 14000.0,
+        "tbea": 161.0,
+        "bav": 840.0,
+        "tba": 161.0,
+        "propertytax": 161.0,
+        "latitude": 40.7605248,
+        "longitude": -73.9177499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.761587,
+          40.743411
+        ]
+      },
+      "properties": {
+        "ownername": "TOPOR, MARIA",
+        "address": "214th Street, Windsor Oak, Queens, Queens County, NYC, New York, 11364, United States of America",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 744000.0,
+        "tbea": 6260.0,
+        "bav": 32678.0,
+        "tba": 5958.0,
+        "propertytax": 5958.0,
+        "latitude": 40.743411,
+        "longitude": -73.761587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7201335,
+          40.6287085
+        ]
+      },
+      "properties": {
+        "ownername": "89-16 175 LLC",
+        "address": "734, West Broadway, Cedarhurst, Nassau County, New York, 11598, United States of America",
+        "condonumber": 606.0,
+        "condo": "unit",
+        "latitude": 40.6287085,
+        "longitude": -73.7201335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9936057,
+          40.7193581
+        ]
+      },
+      "properties": {
+        "ownername": "GOLDEN CHOW INC.",
+        "address": "Bang Bang, 328, Broome Street, Manhattan Community Board 3, New York County, NYC, New York, 10002, United States of America",
+        "taxclass": "4 - commercial property",
+        "taxrate": "10.6840%",
+        "emv": 314000.0,
+        "tbea": 14971.0,
+        "bav": 140130.0,
+        "tba": 14971.0,
+        "propertytax": 14971.0,
+        "latitude": 40.7193581,
+        "longitude": -73.9936057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8487355,
+          40.7804764
+        ]
+      },
+      "properties": {
+        "ownername": "KLEVEN JAMES",
+        "address": "119th Street, College Point, Queens County, NYC, New York, 11356, United States of America",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 617000.0,
+        "tbea": 6344.0,
+        "bav": 33114.0,
+        "tba": 5603.0,
+        "propertytax": 5603.0,
+        "latitude": 40.7804764,
+        "longitude": -73.8487355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8129497,
+          40.7869409
+        ]
+      },
+      "properties": {
+        "ownername": "LAZZARO MATTICCHIO",
+        "address": "Murray Street, Whitestone, Queens, Queens County, NYC, New York, 11357, United States of America",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 844000.0,
+        "tbea": 7373.0,
+        "bav": 38485.0,
+        "tba": 6752.0,
+        "propertytax": 6752.0,
+        "latitude": 40.7869409,
+        "longitude": -73.8129497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8795929,
+          40.7283053
+        ]
+      },
+      "properties": {
+        "ownername": "ROBERT HAGON",
+        "address": "82nd Street, Middle Village, Queens County, NYC, New York, 11379, United States of America",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 708000.0,
+        "tbea": 5491.0,
+        "bav": 28663.0,
+        "tba": 5189.0,
+        "propertytax": 5189.0,
+        "latitude": 40.7283053,
+        "longitude": -73.8795929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.733546,
+          40.706781
+        ]
+      },
+      "properties": {
+        "ownername": "OKORO, CHRISTIANA",
+        "address": "110th Avenue, Cambria Heights, Queens County, NYC, New York, 11429, United States of America",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 346000.0,
+        "tbea": 3177.0,
+        "bav": 16583.0,
+        "tba": 2875.0,
+        "propertytax": 2875.0,
+        "latitude": 40.706781,
+        "longitude": -73.733546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.751054,
+          40.66752
+        ]
+      },
+      "properties": {
+        "ownername": "PATTERSON CAROL W. S.",
+        "address": "225th Street, Laurelton, Queens County, NYC, New York, 11413, United States of America",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 520000.0,
+        "tbea": 5592.0,
+        "bav": 29192.0,
+        "tba": 5592.0,
+        "propertytax": 5592.0,
+        "latitude": 40.66752,
+        "longitude": -73.751054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          NaN,
+          NaN
+        ]
+      },
+      "properties": {
+        "ownername": "RICHARD GLANTS",
+        "taxclass": " 1 - small home, less than 4 families",
+        "taxrate": "19.1570%",
+        "emv": 838000.0,
+        "tbea": 7738.0,
+        "bav": 40392.0,
+        "tba": 7738.0,
+        "propertytax": 7738.0
+      }
+    }
+  ]
+}
