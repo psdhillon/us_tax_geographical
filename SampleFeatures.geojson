@@ -250,26 +250,6 @@
         "latitude": 40.66752,
         "longitude": -73.751054
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          NaN,
-          NaN
-        ]
-      },
-      "properties": {
-        "ownername": "RICHARD GLANTS",
-        "taxclass": " 1 - small home, less than 4 families",
-        "taxrate": "19.1570%",
-        "emv": 838000.0,
-        "tbea": 7738.0,
-        "bav": 40392.0,
-        "tba": 7738.0,
-        "propertytax": 7738.0
-      }
     }
   ]
 }
